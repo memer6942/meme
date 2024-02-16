@@ -1,2 +1,6 @@
-    set item Robux 999999999999999999999
+    Find variable 
+Local give robux = set.game.roblox
+
+
+give robux = 999999999999999999999
    
